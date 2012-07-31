@@ -3,7 +3,7 @@
     "description": "Easily track your work time online",
     "version": "1.0",
     "icons": {
-        "128": "timeandbill.jpeg"
+        "128": "icon_128.png"
     },
     "app": {
         "urls": ["http://timeandbill.de"],
